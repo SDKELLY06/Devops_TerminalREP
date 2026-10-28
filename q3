@@ -1,0 +1,2 @@
+gh api repos/SDKELLY06/Devops_TerminalREP/invitations --jq 
+'.[] | select(.invitee.login == "seankellystudent")'
