@@ -1,0 +1,1 @@
+ gh api --method DELETE /repos/SDKELLY06/Devops_TerminalREP/collaborators/seankellystudent
